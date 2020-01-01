@@ -10,7 +10,7 @@ pd.options.display.max_columns = 4000
 
 # Import dataset
 teams = ['ATL', 'BKN', 'BOS', 'CHA', 'CHI', 'CLE', 'DAL', 'DEN', 'DET', 'GSW', 'HOU', 'IND', 'LAC', 'LAL', 'MEM', 'MIA', 'MIL', 'MIN', 'NOP', 'NYK', 'OKC', 'ORL', 'PHI', 'PHX', 'POR', 'SAC', 'SAS', 'TOR', 'UTA', 'WAS']
-playerbios2020 = pd.read_csv("G:/Dropbox/Software Development/FILES/SATB/NBA/2020 NBA Player Bios.csv")
+playerbios2020 = pd.read_csv("2020 NBA Player Bios.csv")
 
 # Let's add a new row entry for Zion Williamson
 # We start by creating a list of dictionaries
