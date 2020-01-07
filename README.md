@@ -1,6 +1,9 @@
 # Data-Analysis-Projects
 Public repository to view data analysis projects that I have worked on.
 
+# Tableau public profile
+# https://public.tableau.com/profile/timothy.liu#!/
+
 Explanation of contents:
 
 1a. BMI and the NBA.pdf
