@@ -6,11 +6,7 @@ Public repository to view data analysis projects that I have worked on.
 
 >Jupyter Notebook
 
->VSCode
-
 >R Studio
-
->Atom
 
 >goorm.io
 
