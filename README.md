@@ -26,7 +26,7 @@ K Means machine learning algorithms on the data to reduce data to 2 dimensions a
 
 ###########################################################################################
 
-3MySQL Learning and Practice - Creating Databases, Queries, Joins.sql
+3. MySQL Learning and Practice - Creating Databases, Queries, Joins.sql
 > File containing code written while learning and practicing SQL
 > Learned about creating databases, running queries and joins
 > Learned about the structure of relational databases and construction using reference IDs
