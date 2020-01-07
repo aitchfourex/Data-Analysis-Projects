@@ -2,12 +2,12 @@
 Public repository to view data analysis projects that I have worked on.
 
 # Development Stack
-# Anaconda Environment
-# Jupyter Notebook
-# VSCode
-# R Studio
-# Atom
-# goorm.io
+Anaconda Environment
+Jupyter Notebook
+VSCode
+R Studio
+Atom
+goorm.io
 
 Explanation of contents:
 
