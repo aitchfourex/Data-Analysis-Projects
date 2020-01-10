@@ -34,3 +34,13 @@ K Means machine learning algorithms on the data to reduce data to 2 dimensions a
 > Learned about creating databases, running queries and joins
 > Learned about the structure of relational databases and construction using reference IDs
 > Learned about the differences between Pandas and SQL and both have a place
+
+###########################################################################################
+
+4. B2B Sales Analysis.py
+> Dataset sourced from: http://www.salvirt.com/b2bdataset/
+> Cleaned raw data for input into Pandas
+> Data preprocessing, Feature engineering, categorical variable -> Ordinal and nominal variables
+> Classification ML algorithms -> built classifiers, trained on training sets and used to predict validation sets
+> Model evaluation -> Accuracy, learning curves, validation curves, confusion matrix
+> ** Need to add section on exploratory data analysis
